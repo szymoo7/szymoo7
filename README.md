@@ -1,4 +1,4 @@
-# Hi there, I'm Szymon! :sunglasses:
+# Hi there, I'm Szymon
 
 ### About Me
 - 🎓 I'm a Computer Science enthusiast and Formula 1 fan.
